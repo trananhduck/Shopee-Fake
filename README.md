@@ -8,5 +8,5 @@ Hướng dẫn: Cách chạy dự án?
 6. Truy cập vào URL: "http://localhost/phpmyadmin".
 7. Tạo một cơ sở dữ liệu với tên được cung cấp trong tệp "01 LOGIN DETAILS & PROJECT INFO.txt".
 8. Chọn tab "Import" và tải lên tệp cơ sở dữ liệu (.sql) có trong thư mục "DATABASE FILE".
-9. Sau khi thiết lập xong, truy cập URL: "http://localhost/[ PROJECT_FOLDER_NAME ]/".
+9. Sau khi thiết lập xong, truy cập URL: "http://localhost/eCommerceSite-PHP/".
 10. Thông tin đăng nhập được cung cấp trong thư mục dự án, hãy kiểm tra và nhập để sử dụng hệ thống.
